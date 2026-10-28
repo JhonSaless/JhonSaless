@@ -59,9 +59,7 @@
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonSaless/JhonSaless/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonSaless/JhonSaless/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/JhonSaless/JhonSaless/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonSaless/JhonSaless/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonSaless/JhonSaless/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/JhonSaless/JhonSaless/pacman-output/bomberman-contribution-graph.svg">
 </picture>
-
-###
