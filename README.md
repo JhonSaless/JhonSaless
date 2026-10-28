@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Jhon and I'm a Developer, from Brazil.</h2>
+<h2 data-importer="text" align="left">Olá👋!Seja bem vindo, aos meus Projetos!!!.</h2>
 
 ###
 
@@ -40,16 +40,16 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://instagram.com/SEU-USUARIO" target="_blank">
+  <a href="https://www.instagram.com/jhon_sales17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=jhonsalles1706@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/jhonsales/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://wa.me/SEU-NUMERO" target="_blank">
+  <a href="https://wa.me/5521983962511 target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
